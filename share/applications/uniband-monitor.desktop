@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=uniband-monitor
+Comment=Perform arithmetic, scientific or financial calculations
+Exec=uniband_monitor
+Icon=/home/sparrow/.local/share/icons/uniband-monitor.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;Calculator;
+X-GNOME-DocPath=gcalctool/gcalctool.xml
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gcalctool
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-OtherBinaries=gnome-calculator
+X-Ubuntu-Gettext-Domain=gcalctool
+Name[en_US]=uniband-monitor
+Comment[en_US.UTF-8]=it can use several wifi cards
+GenericName[en_US.UTF-8]=monitor 5GHz band
